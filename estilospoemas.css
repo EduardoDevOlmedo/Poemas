@@ -111,4 +111,14 @@ span{
 footer{
   background-color: rgb(153, 187, 255);
   height: 80px;
+  text-align: center;
+  padding: 15px;
+}
+
+.logogit{
+background-image: url('../cursohtml/Images/logotipo-de-github.svg');
+ display: inline-flex;
+
+ width: 30px;
+ height: 30px;
 }
