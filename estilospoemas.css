@@ -110,15 +110,21 @@ span{
 
 footer{
   background-color: rgb(153, 187, 255);
-  height: 80px;
+  height: 100px;
   text-align: center;
   padding: 15px;
+  margin-top: -130px;
 }
 
 .logogit{
 background-image: url('../cursohtml/Images/logotipo-de-github.svg');
  display: inline-flex;
-
+ padding: 15px;
  width: 30px;
  height: 30px;
+}
+
+#followme{
+  padding:2px;
+  margin: 1px;
 }
