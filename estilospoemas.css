@@ -157,6 +157,10 @@ span{
   text-decoration: underline;
   font-size: 20px;
   font-weight: bold;
+  background: #ccc;
+  background: linear-gradient(#00FFFF,#000);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 
 footer{
