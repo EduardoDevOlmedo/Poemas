@@ -58,8 +58,9 @@ pre{
 }
 
 .pre2{
+  color: red;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   margin-top: 10px;
   margin-right: 50px;
   width: 190px;
@@ -67,6 +68,55 @@ pre{
   margin-top: -18px;
   margin-left: -10px;
 }
+
+.pre3{
+  color: blue;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 190px;
+  height: 190px;
+  margin-top: -18px;
+  margin-left: 31px;
+}
+
+.pre4{
+  color: rgb(112, 112, 78);
+  margin: 0 auto;
+  text-align: right;
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 190px;
+  height: 190px;
+  margin-top: -18px;
+  margin-left: 31px;
+}
+
+.pre5{
+  color: green;
+  margin: 0 auto;
+  text-align: justify;
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 190px;
+  height: 190px;
+  margin-top: -18px;
+  margin-left: 31px;
+} 
+
+.pre6{
+  color: brown;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 190px;
+  height: 190px;
+  margin-top: -18px;
+  margin-left: 31px;
+}
+
 
 h4{
   font-size: 16px;
@@ -104,6 +154,7 @@ body{
 }
 
 span{
+  text-decoration: underline;
   font-size: 20px;
   font-weight: bold;
 }
